@@ -1,6 +1,5 @@
-.left-panel{
-    width: 400px;
+.jornal-form{
     display: flex;
     flex-direction: column;
     gap: 30px;
-} 
+}
